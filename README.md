@@ -1,5 +1,4 @@
-# JCDSAH-025_BETA_FINPRO
-# Improving Conversion Rate through ML-Driven Lead Scoring for Term Deposits
+# Reducing Telemarketing Resource Waste in Term Deposit Acquisition through Predictive Lead Scoring
 
 ### Ikhtisar Proyek
 
